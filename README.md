@@ -20,6 +20,6 @@ You'll need the following packages installed on top of the defaults ones:
 
 + and of couse [fbprophet](https://facebook.github.io/prophet/) ... it is conda-installable from the conda-forge channel:
 
-+ ```
+  ```
   conda install -c conda-forge fbprophet
   ```
